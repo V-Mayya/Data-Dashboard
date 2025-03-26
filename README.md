@@ -1,6 +1,6 @@
 # Data Dashboard
 
-<img src="Details.png" width="500" height="270" />
+<img src="Example.png" width="500" height="270" />
 
 ∙Quantitative survey data analysis using R (trends/patterns, transformations, addressed pivotal questions) to assist RootsMove CIC as part of the Data First Aid Service (Pro Bono) in addressing homelessness in the U.K.
 
